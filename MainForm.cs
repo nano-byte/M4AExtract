@@ -26,7 +26,6 @@ using System.Linq;
 using System.Windows.Forms;
 using NanoByte.Common;
 using NanoByte.Common.Cli;
-using NanoByte.Common.Utils;
 
 namespace NanoByte.M4AExtract
 {
