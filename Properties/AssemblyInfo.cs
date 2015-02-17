@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("NanoByte")]
 [assembly: AssemblyProduct("M4AExtract")]
-[assembly: AssemblyCopyright("Copyright © Bastian Eicher 2012-2014")]
+[assembly: AssemblyCopyright("Copyright © Bastian Eicher 2012-2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
